@@ -1,4 +1,4 @@
-# Bussiness Meeting Dialogue Analysis
+# Sentiment Analysis on a Dialogue
 ## Overview
 This project analyses dialogues between an agent and a customer, discussing life insurance options in this example. The code processes text files containing dialogue, categorizes the dialogue based on sentiment, and extracts key topics from positive and concern-related statements for both the agent and the customer.
 
